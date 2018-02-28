@@ -1,0 +1,8 @@
+bs4==0.0.1
+SQLAlchemy==1.1.13
+pytz==2017.2
+enum34==1.1.6
+urllib3==1.22
+beautifulsoup4==4.6.0
+psycopg2==2.7.3.2
+telepot==12.5

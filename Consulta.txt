@@ -1,0 +1,8 @@
+https://www.idealista.com/areas/alquiler-viviendas/con-precio-hasta_900,pisos,de-dos-dormitorios,de-tres-dormitorios,amueblado_amueblados,publicado_ultimas-24-horas/?shape=%28%28y%7BuuFvxmUor%40yBeq%40%7BDaqAs%40aCajAnWQ%7Co%40hRKih%40aAeX%7DNiw%40kHrHe%5DvQ_e%40h%60%40k%5Cre%40iOwP%60L_%5DbP%7BRlSaO~f%40g%60%40fTq%5CoCal%40%7Cb%40q%5Dd%5D~vAlUtaBlSxo%40hl%40s%40uDjmA%29%29
+
+
+START
+heroku ps:scale worker=1
+
+STOP 
+heroku ps:scale worker=0
