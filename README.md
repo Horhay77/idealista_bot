@@ -2,7 +2,7 @@
 
 Get the new ads in your Telegram asap and be the first to call!
 
-![Img](https://raw.githubusercontent.com/Horhay77/idealista_bot/master/Files/Image.png)
+![Img](https://raw.githubusercontent.com/Horhay77/idealista_bot/master/Files/Image2.png)
 
 
 Link your telegram bot via Files/token file.
